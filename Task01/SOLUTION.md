@@ -22,3 +22,6 @@ git checkout remotes/origin/thegraveyard /home/jodh/TerminalWizard/spellbook/'Pr
 
 finally used base64 decode to get the final link
 ![image](https://github.com/JODHIL/amfoss-tasks/assets/143682087/6ae1af7a-2764-40cf-a567-1e5514c7217e)
+
+
+![image](https://github.com/JODHIL/amfoss-tasks/assets/143682087/48a83e65-8eff-4941-a291-e2be04d5dbcc)
