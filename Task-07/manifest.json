@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name":"Weather Chrome Extension",
+    "version":"1.0",
+    "description":"weather API",
+    "author":"Jodhil",
+    "action":{
+        "default_popup":"weather.html",
+        "default_icon":"clouds.png"
+    },
+    "icons":{
+        "128":"clouds.png"
+    },
+    "permissions":["storage","webNavigation","tabs"]
+
+
+
+}
