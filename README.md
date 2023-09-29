@@ -32,7 +32,7 @@ My task statistics are as shown-
 | [Task-10]   | RuskOS | Not Completed |
 | [Task-11]  | TinkerCAD | Not Completed |
 | [Task-12]  | Godot | Not attempted |
-| [Task-13]   | Vim | Not attempted |
+| [Task-13]   | Vim | Partially Done |
 | [Task-14]| Bandit | Completed |
 | [Task-15]   | Euler Project | Attempted(Did 2) |
 
