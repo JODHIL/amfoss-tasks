@@ -11,23 +11,29 @@ As of now all i could contribute to the team is share whatever new knowledge i g
 I wish to become a huge asset rather than a liability to the club and give back as much as i can.
 
 Regards
+
 Jodhil Lal
+
+
 My task statistics are as shown-
 
-Task List	Description	Status
-Task-00	Installing Ubuntu	Completed
-Task-01	Starring amfFOSS repositories	Completed
-Task-02	Terminal Hunt	Completed
-Task-03	Programming	Attempted two questions
-Task-04	Cinebot	Completed
-Task-05	Debugging	Completed
-Task-06	Flamegame	Completed
-Task-07	GO WASM	Partially done
-Task-08	Internet Explorer	Completed
-Task-09	Krypto Scraper	Completed
-Task-10	Cs50	Completed
-Task-11	Figma Ninja	Completed
-Task-12	Footfall Counter	Not attempted
-Task-13	Bunny Heist	Not attempted
-Task-14	Bandit	Completed
-Task-15	Euler Project	Not attempted
+| Task List | Description | Status |
+| :-:       | :-:         | :-:    |
+| [Task-00]  | Installing Ubuntu | Completed |
+| [Task-01]  | Terminal Wizard | Completed |
+| [Task-02] | Lessgo Hugo | Completed,Deployment to be done |
+| [Task-03] | Hello World | Partially Done(5 Languages done) |
+| [Task-04] | Competitive Programming | Partially Done (7 questions)|
+| [Task-05]| Hypertext Mockup Lnaguage | Completed (Padding in the shop site)|
+| [Task-06]  | Cricket Vault | Completed |
+| [Task-07]  | AK-47℃ | Completed |
+| [Task-08]  | Poke-Search! | Not Completed |
+| [Task-09]| GeoQuest | Not Completed |
+| [Task-10]   | RuskOS | Not Completed |
+| [Task-11]  | TinkerCAD | Not Completed |
+| [Task-12]  | Godot | Not attempted |
+| [Task-13]   | Vim | Not attempted |
+| [Task-14]| Bandit | Completed |
+| [Task-15]   | Euler Project | Attempted(Did 2) |
+
+
