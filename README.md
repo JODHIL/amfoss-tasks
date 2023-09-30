@@ -36,4 +36,10 @@ My task statistics are as shown-
 | [Task-14]| Bandit | Completed |
 | [Task-15]   | Euler Project | Attempted(Did 2) |
 
+My experiene:
+All the tasks did open a new whole book of knowledge for me.
+Some taught me how to debug and a lot of logic building 
+Loved doing cricket bot and ak57 .Wanted to try poke search ,GeoQuest and Godot because they were also something creative and new.
+
+
 
