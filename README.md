@@ -21,7 +21,7 @@ My task statistics are as shown-
 | :-:       | :-:         | :-:    |
 | [Task-00]  | Installing Ubuntu | Completed |
 | [Task-01]  | Terminal Wizard | Completed |
-| [Task-02] | Lessgo Hugo | Completed,Deployment to be done |
+| [Task-02] | Lessgo Hugo | Completed,Deployment done(Redirecting to pages to be corrected)|
 | [Task-03] | Hello World | Partially Done(5 Languages done) |
 | [Task-04] | Competitive Programming | Partially Done (7 questions)|
 | [Task-05]| Hypertext Mockup Lnaguage | Completed |
