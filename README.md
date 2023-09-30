@@ -24,7 +24,7 @@ My task statistics are as shown-
 | [Task-02] | Lessgo Hugo | Completed,Deployment to be done |
 | [Task-03] | Hello World | Partially Done(5 Languages done) |
 | [Task-04] | Competitive Programming | Partially Done (7 questions)|
-| [Task-05]| Hypertext Mockup Lnaguage | Completed (Padding in the shop site)|
+| [Task-05]| Hypertext Mockup Lnaguage | Completed |
 | [Task-06]  | Cricket Vault | Completed |
 | [Task-07]  | AK-47℃ | Completed |
 | [Task-08]  | Poke-Search! | Not Completed |
