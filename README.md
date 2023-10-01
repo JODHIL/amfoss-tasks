@@ -19,22 +19,22 @@ My task statistics are as shown-
 
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
-| [Task-00] | Installing Ubuntu | Completed |
-| [Task-01]  | Terminal Wizard | Completed |
-| [Task-02] | Lessgo Hugo | Completed,Deployment done(Redirecting to pages to be corrected)|
-| [Task-03] | Hello World | Partially Done(5 Languages done) |
-| [Task-04] | Competitive Programming | Partially Done (7 questions)|
-| [Task-05]| Hypertext Mockup Lnaguage | Completed |
-| [Task-06]  | Cricket Vault | Completed |
-| [Task-07]  | AK-47℃ | Completed |
+| [Task-00](https://github.com/JODHIL/amfoss-tasks/tree/main/Task-00) | Installing Ubuntu | Completed |
+| [Task-01](https://github.com/JODHIL/amfoss-tasks/tree/main/Task-01)  | Terminal Wizard | Completed |
+| [Task-02](https://github.com/JODHIL/amfoss-tasks/tree/main/Task-02) | Lessgo Hugo | Completed,Deployment done(Redirecting to pages to be corrected)|
+| [Task-03](https://github.com/JODHIL/amfoss-tasks/tree/main/Task-03) | Hello World | Partially Done(5 Languages done) |
+| [Task-04](https://github.com/JODHIL/amfoss-tasks/tree/main/Task-04) | Competitive Programming | Partially Done (7 questions)|
+| [Task-05](https://github.com/JODHIL/amfoss-tasks/tree/main/Task-05)| Hypertext Mockup Lnaguage | Completed |
+| [Task-06](https://github.com/JODHIL/amfoss-tasks/tree/main/Task-06)  | Cricket Vault | Completed |
+| [Task-07](https://github.com/JODHIL/amfoss-tasks/tree/main/Task-07)  | AK-47℃ | Completed |
 | [Task-08]  | Poke-Search! | Not Completed |
 | [Task-09]| GeoQuest | Not Completed |
 | [Task-10]   | RuskOS | Not Completed |
 | [Task-11]  | TinkerCAD | Not Completed |
 | [Task-12]  | Godot | Not attempted |
-| [Task-13]   | Vim | Completed |
-| [Task-14]| Bandit | Completed |
-| [Task-15]   | Euler Project | Attempted(Did 2) |
+| [Task-13](https://github.com/JODHIL/amfoss-tasks/tree/main/Task-13)   | Vim | Completed |
+| [Task-14](https://github.com/JODHIL/amfoss-tasks/tree/main/Task-14)| Bandit | Completed |
+| [Task-15](https://github.com/JODHIL/amfoss-tasks/tree/main/Task-15)   | Euler Project | Attempted(Did 2) |
 
 My experiene:
 
