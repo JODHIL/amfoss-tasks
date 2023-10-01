@@ -19,7 +19,7 @@ My task statistics are as shown-
 
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
-| [Task-00]  | Installing Ubuntu | Completed |
+| [Task-00] |https://github.com/JODHIL/amfoss-tasks/tree/main/Task-01 | Installing Ubuntu | Completed |
 | [Task-01]  | Terminal Wizard | Completed |
 | [Task-02] | Lessgo Hugo | Completed,Deployment done(Redirecting to pages to be corrected)|
 | [Task-03] | Hello World | Partially Done(5 Languages done) |
